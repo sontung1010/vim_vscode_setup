@@ -1,0 +1,104 @@
+{
+    "workbench.colorCustomizations": {
+        "[Monokai]": {
+            "sideBar.foreground": "#A6E22E",
+            "sideBar.background": "#000000",
+            "sideBarSectionHeader.foreground": "#f92672",
+            "sideBarSectionHeader.background": "#000000",
+            "sideBarTitle.foreground": "#E6DB74",
+            "sideBar.border": "#A6E22E",
+
+            "editor.background": "#000000",
+            "editorError.foreground": "#ff000088",
+            "editorWarning.foreground": "#ffe60033",
+            "editorInfo.foreground": "#00ff0088",
+            "editorGroupHeader.tabsBackground": "#000000",
+            "editorGroup.border": "#A6E22E",
+
+            "breadcrumb.background": "#000000",
+            "breadcrumb.foreground": "#A6E22E",
+
+            "statusBar.background": "#007090",
+            "statusBar.foreground": "#FFFFFF",
+
+            "minimap.background": "#000000",
+
+            "titleBar.activeBackground": "#000000",
+
+            "activityBar.background": "#000000",
+
+            "tab.inactiveBackground": "#000000",
+            "tab.activeBackground": "#000000",
+            "tab.activeBorder": "#ffd866"
+        }
+    },
+    "workbench.colorTheme": "Monokai",
+    "workbench.preferredDarkColorTheme": "Monokai",
+    "workbench.preferredHighContrastColorTheme": "Monokai",
+    "workbench.preferredHighContrastLightColorTheme": "Monokai",
+    "workbench.preferredLightColorTheme": "Monokai",
+    "editor.fontSize": 12,
+    "vim.mouseSelectionGoesIntoVisualMode": false,
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 12,
+    "editor.wordWrap": "on",
+    "editor.cursorBlinking": "solid",
+    "editor.cursorStyle": "block",
+    "vim.cursorStylePerMode.insert": "block",
+    "vim.cursorStylePerMode.normal": "block",
+    "vim.cursorStylePerMode.replace": "block",
+    "vim.cursorStylePerMode.visual": "block",
+    "vim.cursorStylePerMode.visualblock": "block",
+    "vim.cursorStylePerMode.visualline": "block",
+    "redhat.telemetry.enabled": true,
+    "explorer.confirmDelete": false,
+    "editor.minimap.enabled": false,
+    "workbench.editor.revealIfOpen": true,
+    "workbench.editor.showTabs": false,
+    "python.autoComplete.extraPaths": [
+        
+    ],
+    "python.analysis.extraPaths": [],
+    "cmake.configureOnOpen": true,
+    "debug.terminal.clearBeforeReusing": true,
+    "editor.rename.enablePreview": false,
+    "workbench.editor.restoreViewState": false,
+    "workbench.startupEditor": "none",
+    "workbench.editor.limit.perEditorGroup": true,
+    "workbench.editor.limit.value": 1,
+    "workbench.editor.limit.enabled": true,
+    "xml.completion.autoCloseTags": false,
+    "html.format.indentHandlebars": true,
+    "html.format.indentInnerHtml": true,
+    "html-css-class-completion.CSSLanguages": [
+
+        "css",
+        "sass",
+        "scss"
+    ],
+    "html-css-class-completion.HTMLLanguages": [
+
+        "html",
+        "vue",
+        "razor",
+        "blade",
+        "handlebars",
+        "twig",
+        "django-html",
+        "php",
+        "markdown",
+        "erb",
+        "ejs",
+        "svelte"
+    ],
+    "html-css-class-completion.JavaScriptLanguages": [
+
+        "javascript",
+        "javascriptreact",
+        "typescriptreact"
+    ],
+    "css.completion.completePropertyWithSemicolon": false,
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": false,
+    "jupyter.showVariableViewWhenDebugging": true,
+    "window.restoreWindows": "preserve",
+}
