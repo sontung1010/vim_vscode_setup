@@ -336,6 +336,11 @@
     {
         "key": "enter",
         "command": "notebook.cell.edit",
-        "when": "notebookEditorFocused"
+        "when": "notebookEditorFocused && notebookCellListFocused && notebookEditable && !editorHoverFocused && !inputFocus"
+    },
+    {
+        "key": "enter",
+        "command": "-notebook.cell.edit",
+        "when": "notebookCellListFocused && notebookEditable && !editorHoverFocused && !inputFocus"
     }
 ]
