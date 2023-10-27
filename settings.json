@@ -1,43 +1,46 @@
 {
     "workbench.colorCustomizations": {
         "[Monokai]": {
-            "sideBar.foreground": "#A6E22E",
-            "sideBar.background": "#000000",
-            "sideBarSectionHeader.foreground": "#f92672",
-            "sideBarSectionHeader.background": "#000000",
-            "sideBarTitle.foreground": "#E6DB74",
-            "sideBar.border": "#A6E22E",
+        "sideBar.foreground": "#A6E22E",
+        "sideBar.background": "#000000",
+        "sideBarSectionHeader.foreground": "#f92672",
+        "sideBarSectionHeader.background": "#000000",
+        "sideBarTitle.foreground": "#E6DB74",
+        "sideBar.border": "#A6E22E",
 
-            "editor.background": "#000000",
-            "editorError.foreground": "#ff000088",
-            "editorWarning.foreground": "#ffe60033",
-            "editorInfo.foreground": "#00ff0088",
-            "editorGroupHeader.tabsBackground": "#000000",
-            "editorGroup.border": "#A6E22E",
+        "editor.background": "#000000",
+        "editorError.foreground": "#ff000088",
+        "editorWarning.foreground": "#ffe60033",
+        "editorInfo.foreground": "#00ff0088",
+        "editorGroupHeader.tabsBackground": "#000000",
+        "editorGroup.border": "#A6E22E",
+        "editor.wordHighlightBackground": "#294e87",
 
-            "breadcrumb.background": "#000000",
-            "breadcrumb.foreground": "#A6E22E",
+        "breadcrumb.background": "#000000",
+        "breadcrumb.foreground": "#A6E22E",
 
-            "statusBar.background": "#007090",
-            "statusBar.foreground": "#FFFFFF",
+        "statusBar.background": "#007090",
+        "statusBar.foreground": "#FFFFFF",
 
-            "minimap.background": "#000000",
+        "minimap.background": "#000000",
 
-            "titleBar.activeBackground": "#000000",
+        "titleBar.activeBackground": "#000000",
 
-            "activityBar.background": "#000000",
+        "activityBar.background": "#000000",
 
-            "tab.inactiveBackground": "#000000",
-            "tab.activeBackground": "#000000",
-            "tab.activeBorder": "#ffd866"
+        "tab.inactiveBackground": "#000000",
+        "tab.activeBackground": "#000000",
+        "tab.activeBorder": "#ffd866",
+
+        "tree.indentGuidesStroke": "#A6E22E",
+        "tree.inactiveIndentGuidesStroke": "#000000"
+        },
+        "[United Ubuntu]": {
+
         }
     },
-    "workbench.colorTheme": "Monokai",
-    "workbench.preferredDarkColorTheme": "Monokai",
-    "workbench.preferredHighContrastColorTheme": "Monokai",
-    "workbench.preferredHighContrastLightColorTheme": "Monokai",
     "workbench.preferredLightColorTheme": "Monokai",
-    "editor.fontSize": 12,
+    "workbench.tree.indent": 15,
     "vim.mouseSelectionGoesIntoVisualMode": false,
     "terminal.integrated.fontFamily": "MesloLGS NF",
     "terminal.integrated.fontSize": 12,
@@ -100,5 +103,25 @@
     "css.completion.completePropertyWithSemicolon": false,
     "workbench.editor.doubleClickTabToToggleEditorGroupSizes": false,
     "jupyter.showVariableViewWhenDebugging": true,
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
     "window.restoreWindows": "preserve",
+    "notebook.lineNumbers": "on",
+    "jupyter.askForKernelRestart": false,
+    "idf.espIdfPath": "/Users/st/esp/esp-idf",
+    "idf.pythonBinPath": "/Users/st/.espressif/python_env/idf5.2_py3.11_env/bin/python",
+    "idf.toolsPath": "/Users/st/.espressif",
+    "idf.customExtraPaths": "/Users/st/.espressif/tools/xtensa-esp32-elf/esp32-2019r1-8.2.0/xtensa-esp32-elf/bin:/Users/st/.espressif/tools/xtensa-esp32s2-elf/esp32s2-dev-4-g3a626e9-8.2.0/xtensa-esp32s2-elf/bin:/Users/st/.espressif/tools/esp32ulp-elf/2.28.51.20170517/esp32ulp-elf-binutils/bin:/Users/st/.espressif/tools/cmake/3.13.4/CMake.app/Contents/bin:/Users/st/.espressif/tools/openocd-esp32/v0.10.0-esp32-20190708/openocd-esp32/bin:/Users/st/.espressif/tools/ninja/1.9.0",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/Users/st/.espressif/tools/openocd-esp32/v0.10.0-esp32-20190708/openocd-esp32/share/openocd/scripts"
+    },
+    "idf.gitPath": "git",
+    "editor.fontFamily": "MesloLGS NF",
+    "editor.fontSize": 11,
+    "notebook.output.wordWrap": true,
+    "workbench.colorTheme": "Monokai",
+    "workbench.preferredDarkColorTheme": "Monokai",
+    "workbench.preferredHighContrastColorTheme": "Monokai",
+    "workbench.preferredHighContrastLightColorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme",
+    // "editor.fontFamily": "",
 }
