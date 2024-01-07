@@ -19,7 +19,7 @@
         "breadcrumb.background": "#000000",
         "breadcrumb.foreground": "#A6E22E",
 
-        "statusBar.background": "#007090",
+        "statusBar.background": "#000000",
         "statusBar.foreground": "#FFFFFF",
 
         "minimap.background": "#000000",
@@ -42,7 +42,7 @@
     "workbench.preferredLightColorTheme": "Monokai",
     "workbench.tree.indent": 15,
     "vim.mouseSelectionGoesIntoVisualMode": false,
-    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontFamily": "Consolas, 'Courier New', monospace",
     "terminal.integrated.fontSize": 12,
     "editor.wordWrap": "on",
     "editor.cursorBlinking": "solid",
@@ -57,7 +57,7 @@
     "explorer.confirmDelete": false,
     "editor.minimap.enabled": false,
     "workbench.editor.revealIfOpen": true,
-    "workbench.editor.showTabs": false,
+    "workbench.editor.showTabs": "single",
     "python.autoComplete.extraPaths": [
         
     ],
@@ -101,7 +101,7 @@
         "typescriptreact"
     ],
     "css.completion.completePropertyWithSemicolon": false,
-    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": false,
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "off",
     "jupyter.showVariableViewWhenDebugging": true,
     "jupyter.interactiveWindow.textEditor.executeSelection": true,
     "window.restoreWindows": "preserve",
@@ -115,13 +115,18 @@
         "OPENOCD_SCRIPTS": "/Users/st/.espressif/tools/openocd-esp32/v0.10.0-esp32-20190708/openocd-esp32/share/openocd/scripts"
     },
     "idf.gitPath": "git",
-    "editor.fontFamily": "MesloLGS NF",
-    "editor.fontSize": 11,
     "notebook.output.wordWrap": true,
     "workbench.colorTheme": "Monokai",
     "workbench.preferredDarkColorTheme": "Monokai",
     "workbench.preferredHighContrastColorTheme": "Monokai",
     "workbench.preferredHighContrastLightColorTheme": "Monokai",
     "workbench.iconTheme": "material-icon-theme",
+    "editor.fontSize": 11,
+    "terminal.integrated.defaultProfile.windows": "Windows PowerShell",
+    "terminal.integrated.rightClickBehavior": "default",
+    "security.workspace.trust.untrustedFiles": "open",
+    "cmake.showOptionsMovedNotification": false,
+    "code-runner.runInTerminal": true,
+    "code-runner.saveFileBeforeRun": true,
     // "editor.fontFamily": "",
 }
