@@ -1,5 +1,7 @@
 Install the following extension:
 
+- Python
+- Python Debugger
 - C/C++
 - C/C++ Extension Pack
 - C/C++ Themes
@@ -9,39 +11,43 @@ Install the following extension:
 - Code Runner
 - IntelliCode
 - IntelliCode API Usage Examples
+- LeetCode
 - Makefile Tools
 - Material Icon Theme
 - Msg Language Support
 - Path Intellisense
-- Python
-- Python Debugger
+- PlatformIO IDE
+- Rainbow CSV
 - ROS
-- Tensorboard
+- Serial Monitor
 - Txt Syntax
 - Vim
-- vscode-pdf
 - XML
 - XML Tools
 - YAML
+- ESP-IDF
 
 Optional:
 
 - Dev Container
 - Docker
-- Jinja
 - Jupyter
+- LaTex Workshop
+- WSL
+- Jinja
 - Jupyter Cell Tags
 - Jupyter Keymap
-- Jupyter Notebook Renders
+- Jupyter Notebook Renderers
+- Jupyter Slide Show
 - Linux Themes for VS Code
 - Live Preview
-- PlatformIO IDE
 - Prettier - Code formatter
-- Rainbow CSV
 - Remote - SSH
 - Remote - SSH: Editing Configuration
 - Remote Explorer
-- WSL
+- Tensorboard
+- PyLance
+- vscode-pdf
 
 
 

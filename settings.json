@@ -128,5 +128,10 @@
     "cmake.showOptionsMovedNotification": false,
     "code-runner.runInTerminal": true,
     "code-runner.saveFileBeforeRun": true,
+    "leetcode.workspaceFolder": "c:\\Users\\sontu\\OneDrive\\US_study_abroad\\Courses-Training\\LeetCode",
+    "leetcode.defaultLanguage": "cpp",
+    "arduino.useArduinoCli": true,
+    "explorer.autoReveal": false,
+    "workbench.editor.labelFormat": "long",
     // "editor.fontFamily": "",
 }
