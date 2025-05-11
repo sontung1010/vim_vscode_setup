@@ -328,5 +328,13 @@
         "key": "ctrl+f",
         "command": "-actions.find",
         "when": "editorFocus || editorIsOpen"
+    },
+    {
+        "key": "alt+f12",
+        "command": "editor.action.peekDeclaration"
+    },
+    {
+        "key": "alt+f11",
+        "command": "editor.action.peekTypeDefinition"
     }
 ]
