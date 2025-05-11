@@ -10,8 +10,8 @@
 
         "editor.background": "#000000",
         // "editorError.foreground": "#ff000088",
-        "editorError.foreground": "#000000",
-        "editorWarning.foreground": "#ffe60033",
+        "editorError.foreground": "#b90000",
+        "editorWarning.foreground": "#ffe600b2",
         // "editorInfo.foreground": "#00ff0088",
         "editorInfo.foreground": "#000000",
         "editorGroupHeader.tabsBackground": "#000000",
