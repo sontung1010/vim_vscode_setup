@@ -17,6 +17,7 @@ Install the following extension:
 - Msg Language Support
 - Path Intellisense
 - PlatformIO IDE
+- PyLance
 - Rainbow CSV
 - ROS
 - Serial Monitor
@@ -26,6 +27,7 @@ Install the following extension:
 - XML Tools
 - YAML
 - ESP-IDF
+- Nightfox
 
 Optional:
 
@@ -46,7 +48,6 @@ Optional:
 - Remote - SSH: Editing Configuration
 - Remote Explorer
 - Tensorboard
-- PyLance
 - vscode-pdf
 
 

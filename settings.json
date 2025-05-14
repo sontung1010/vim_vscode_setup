@@ -1,47 +1,85 @@
 {
     "workbench.colorCustomizations": {
         "[Monokai]": {
-        "sideBar.foreground": "#A6E22E",
-        "sideBar.background": "#000000",
-        "sideBarSectionHeader.foreground": "#f92672",
-        "sideBarSectionHeader.background": "#000000",
-        "sideBarTitle.foreground": "#E6DB74",
-        "sideBar.border": "#A6E22E",
+            "sideBar.foreground": "#A6E22E",
+            "sideBar.background": "#000000",
+            "sideBarSectionHeader.foreground": "#f92672",
+            "sideBarSectionHeader.background": "#000000",
+            "sideBarTitle.foreground": "#E6DB74",
+            "sideBar.border": "#A6E22E",
 
-        "editor.background": "#000000",
-        // "editorError.foreground": "#ff000088",
-        "editorError.foreground": "#b90000",
-        "editorWarning.foreground": "#ffe600b2",
-        // "editorInfo.foreground": "#00ff0088",
-        "editorInfo.foreground": "#000000",
-        "editorGroupHeader.tabsBackground": "#000000",
-        "editorGroup.border": "#A6E22E",
-        "editor.wordHighlightBackground": "#294e87",
+            "editor.background": "#000000",
+            // "editorError.foreground": "#ff000088",
+            "editorError.foreground": "#b90000",
+            "editorWarning.foreground": "#ffe600b2",
+            // "editorInfo.foreground": "#00ff0088",
+            "editorInfo.foreground": "#000000",
+            "editorGroupHeader.tabsBackground": "#000000",
+            "editorGroup.border": "#A6E22E",
+            "editor.wordHighlightBackground": "#294e87",
 
-        "breadcrumb.background": "#000000",
-        "breadcrumb.foreground": "#A6E22E",
+            "breadcrumb.background": "#000000",
+            "breadcrumb.foreground": "#A6E22E",
 
-        "statusBar.background": "#000000",
-        "statusBar.foreground": "#FFFFFF",
+            "statusBar.background": "#000000",
+            "statusBar.foreground": "#FFFFFF",
 
-        "minimap.background": "#000000",
+            "minimap.background": "#000000",
 
-        "titleBar.activeBackground": "#000000",
+            "titleBar.activeBackground": "#000000",
 
-        "activityBar.background": "#000000",
+            "activityBar.background": "#000000",
 
-        "tab.inactiveBackground": "#000000",
-        "tab.activeBackground": "#000000",
-        "tab.activeBorder": "#ffd866",
+            "tab.inactiveBackground": "#000000",
+            "tab.activeBackground": "#000000",
+            "tab.activeBorder": "#ffd866",
 
-        "tree.indentGuidesStroke": "#A6E22E",
-        "tree.inactiveIndentGuidesStroke": "#000000"
+            "tree.indentGuidesStroke": "#A6E22E",
+            "tree.inactiveIndentGuidesStroke": "#000000"
         },
         "[United Ubuntu]": {
 
+        },
+        "[Carbonfox]": {
+            "sideBar.foreground": "#ffffff",
+            "sideBar.background": "#000000",
+            "sideBarSectionHeader.foreground": "#c160ca",
+            "sideBarSectionHeader.background": "#000000",
+            "sideBarTitle.foreground": "#E6DB74",
+            "sideBar.border": "#2edce2",
+            
+            "editor.background": "#000000",
+            // "editorError.foreground": "#ff000088",
+            "editorError.foreground": "#000000",
+            "editorWarning.foreground": "#ffe600b2",// "editorInfo.foreground": "#00ff0088",
+            "editorInfo.foreground": "#000000",
+            "editorGroupHeader.tabsBackground": "#000000",
+            "editorGroup.border": "#2edce2",
+            "editor.wordHighlightBackground": "#294e87",
+
+            "breadcrumb.background": "#000000",
+            "breadcrumb.foreground": "#2edce2",
+
+            "statusBar.background": "#000000",
+            "statusBar.foreground": "#FFFFFF",
+
+            "minimap.background": "#000000",
+
+            "titleBar.activeBackground": "#000000",
+
+            "activityBar.background": "#000000",
+
+            "tab.inactiveBackground": "#000000",
+            "tab.activeBackground": "#000000",
+            "tab.activeBorder": "#ff9100",
+
+            "tree.indentGuidesStroke": "#2edce2",
+            "tree.inactiveIndentGuidesStroke": "#000000",
+
+            "terminal.background": "#000000"
         }
     },
-    "workbench.preferredLightColorTheme": "Monokai",
+    "workbench.colorTheme": "Carbonfox",
     "workbench.tree.indent": 15,
     "vim.mouseSelectionGoesIntoVisualMode": false,
     "terminal.integrated.fontSize": 12,
@@ -124,10 +162,6 @@
     },
     "idf.gitPath": "git",
     "notebook.output.wordWrap": true,
-    "workbench.colorTheme": "Monokai",
-    "workbench.preferredDarkColorTheme": "Monokai",
-    "workbench.preferredHighContrastColorTheme": "Monokai",
-    "workbench.preferredHighContrastLightColorTheme": "Monokai",
     "workbench.iconTheme": "material-icon-theme",
     "editor.fontSize": 12,
     "terminal.integrated.defaultProfile.windows": "PowerShell",
